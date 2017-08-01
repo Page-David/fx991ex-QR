@@ -23,7 +23,7 @@ For example, an URL like http://wes.casio.com/math/index.php?q=I-255A+U-00030008
 ## KEY-VALUE relationship
 As description in `Basics` we can find out what input is with number pairs after `E-` like `E-22` presents ![pi][pi]. Here is number list:
 
-### numbers
+### Numbers
 | key | value |
 |:-----:|:-------:|
 | 30 | ![0][0] |
@@ -39,6 +39,17 @@ As description in `Basics` we can find out what input is with number pairs after
 | 2E | ![.][.] |
 | 22 | ![pi][pi] |
 
+### Elementary Mathematics
+| key | value |
+|:-----:|:-------:|
+| A6 | ![plus][plus] |
+| A7 | ![minus][minus] |
+| A8 | ![multiply][multiply] |
+| A9 | ![divition][divition] |
+| 741Axx1B | ![sqrt][sqrt] |
+| 681Axx1B | ![abs][abs] |
+
+Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 
 [pi]: http://latex.codecogs.com/gif.latex?\pi
 [0]: http://latex.codecogs.com/gif.latex?0
@@ -52,3 +63,10 @@ As description in `Basics` we can find out what input is with number pairs after
 [8]: http://latex.codecogs.com/gif.latex?8
 [9]: http://latex.codecogs.com/gif.latex?9
 [.]: http://latex.codecogs.com/gif.latex?.
+[plus]: http://latex.codecogs.com/gif.latex?+
+[minus]: http://latex.codecogs.com/gif.latex?-
+[multiply]: http://latex.codecogs.com/gif.latex?*
+[divition]: http://latex.codecogs.com/gif.latex?/
+[sqrt]: http://latex.codecogs.com/gif.latex?\sqrt{\hspace{1em}}
+[sqrt6]: http://latex.codecogs.com/gif.latex?\sqrt{6}
+[abs]: http://latex.codecogs.com/gif.latex?\left|\hspace{1em}\right|
