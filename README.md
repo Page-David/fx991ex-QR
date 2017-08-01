@@ -18,3 +18,9 @@ For example, an URL like http://wes.casio.com/math/index.php?q=I-255A+U-00030008
 |       S-401410101010101E1010B0000C41       | UNKNOWN |
 | R-0314159265358980010000000000000000000000 | relative with calculate result |
 |                  E-22                      | the intput formula present by number pairs |
+
+## KEY-VALUE relationship
+As description in `Basics` we can find out what input is with number pairs after `E-` like `E-22` presents ![pi][pi]. Here is number list:
+
+
+[pi]: http://latex.codecogs.com/gif.latex?\pi
