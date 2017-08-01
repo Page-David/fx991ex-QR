@@ -1,4 +1,5 @@
 # Casio fx991 ex QR code
+Reverse engerneeing the Casio QR code.
 
 ## Why we want to make out how QR code works?
 The app or say the website Casio provides is awlful and must be online to use it. We can try to search out how the QR code works and make your own program to read data from the calculator.
