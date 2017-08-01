@@ -22,5 +22,32 @@ For example, an URL like http://wes.casio.com/math/index.php?q=I-255A+U-00030008
 ## KEY-VALUE relationship
 As description in `Basics` we can find out what input is with number pairs after `E-` like `E-22` presents ![pi][pi]. Here is number list:
 
+### numbers
+| key | value |
+|:-----:|:-------:|
+| 30 | ![0][0] |
+| 31 | ![1][1] |
+| 32 | ![2][2] |
+| 33 | ![3][3] |
+| 34 | ![4][4] |
+| 35 | ![5][5] |
+| 36 | ![6][6] |
+| 37 | ![7][7] |
+| 38 | ![8][8] |
+| 39 | ![9][9] |
+| 2E | ![.][.] |
+| 22 | ![pi][pi] |
+
 
 [pi]: http://latex.codecogs.com/gif.latex?\pi
+[0]: http://latex.codecogs.com/gif.latex?0
+[1]: http://latex.codecogs.com/gif.latex?1
+[2]: http://latex.codecogs.com/gif.latex?2
+[3]: http://latex.codecogs.com/gif.latex?3
+[4]: http://latex.codecogs.com/gif.latex?4
+[5]: http://latex.codecogs.com/gif.latex?5
+[6]: http://latex.codecogs.com/gif.latex?6
+[7]: http://latex.codecogs.com/gif.latex?7
+[8]: http://latex.codecogs.com/gif.latex?8
+[9]: http://latex.codecogs.com/gif.latex?9
+[.]: http://latex.codecogs.com/gif.latex?.
