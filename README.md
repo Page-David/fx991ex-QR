@@ -39,6 +39,19 @@ As description in `Basics` we can find out what input is with number pairs after
 | 2E | ![.][.] |
 | 22 | ![pi][pi] |
 
+### Variables
+| key | value |
+|:-----:|:-------:|
+| 42 | ![A][A] |
+| 43 | ![B][B] |
+| 44 | ![C][C] |
+| 45 | ![D][D] |
+| 46 | ![E][E] |
+| 47 | ![F][F] |
+| 48 | ![x][x] |
+| 49 | ![y][y] |
+| 40 | ![M][M] |
+
 ### Elementary Mathematics
 | key | value |
 |:-----:|:-------:|
@@ -52,6 +65,7 @@ As description in `Basics` we can find out what input is with number pairs after
 
 Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 
+
 [pi]: http://latex.codecogs.com/gif.latex?\pi
 [0]: http://latex.codecogs.com/gif.latex?0
 [1]: http://latex.codecogs.com/gif.latex?1
@@ -64,6 +78,15 @@ Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 [8]: http://latex.codecogs.com/gif.latex?8
 [9]: http://latex.codecogs.com/gif.latex?9
 [.]: http://latex.codecogs.com/gif.latex?.
+[A]:http://latex.codecogs.com/gif.latex?{\color{Red}A}
+[B]:http://latex.codecogs.com/gif.latex?{\color{Red}B}
+[C]:http://latex.codecogs.com/gif.latex?{\color{Red}C}
+[D]:http://latex.codecogs.com/gif.latex?{\color{Red}D}
+[E]:http://latex.codecogs.com/gif.latex?{\color{Red}E}
+[F]:http://latex.codecogs.com/gif.latex?{\color{Red}F}
+[x]:http://latex.codecogs.com/gif.latex?{\color{Red}x}
+[y]:http://latex.codecogs.com/gif.latex?{\color{Red}y}
+[M]:http://latex.codecogs.com/gif.latex?{\color{Red}M}
 [plus]: http://latex.codecogs.com/gif.latex?+
 [minus]: http://latex.codecogs.com/gif.latex?-
 [multiply]: http://latex.codecogs.com/gif.latex?*
