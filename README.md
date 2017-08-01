@@ -48,6 +48,7 @@ As description in `Basics` we can find out what input is with number pairs after
 | A9 | ![divition][divition] |
 | 741Axx1B | ![sqrt][sqrt] |
 | 681Axx1B | ![abs][abs] |
+| C81D1Axx1B1Axx1B1E | ![frag][frag] |
 
 Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 
@@ -70,3 +71,4 @@ Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 [sqrt]: http://latex.codecogs.com/gif.latex?\sqrt{\hspace{1em}}
 [sqrt6]: http://latex.codecogs.com/gif.latex?\sqrt{6}
 [abs]: http://latex.codecogs.com/gif.latex?\left|\hspace{1em}\right|
+[frag]: http://latex.codecogs.com/gif.latex?\frac{\framebox{\phantom{1}}}{\fbox{\phantom{1}}}
