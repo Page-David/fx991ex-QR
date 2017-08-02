@@ -94,8 +94,8 @@ Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 [M]:http://latex.codecogs.com/gif.latex?{\color{Red}M}
 [plus]: http://latex.codecogs.com/gif.latex?+
 [minus]: http://latex.codecogs.com/gif.latex?-
-[multiply]: http://latex.codecogs.com/gif.latex?*
-[divition]: http://latex.codecogs.com/gif.latex?/
+[multiply]: http://latex.codecogs.com/gif.latex?{\times}
+[divition]: http://latex.codecogs.com/gif.latex?{\div}
 [sqrt]: http://latex.codecogs.com/gif.latex?\sqrt{\hspace{1em}}
 [sqrt6]: http://latex.codecogs.com/gif.latex?\sqrt{6}
 [abs]: http://latex.codecogs.com/gif.latex?\left|\hspace{1em}\right|
