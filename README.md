@@ -61,7 +61,7 @@ As description in Basics we can find out what input is with number pairs after `
 | A9 | ![divition][divition] |
 | 741Axx1B | ![sqrt][sqrt] |
 | 681Axx1B | ![abs][abs] |
-| C81D1Axx1B1Axx1B1E | ![frag][frag] |
+| C81D1Axx(numerator)1B1Axx(denominator)1B1E | ![frag][frag] |
 
 Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 
