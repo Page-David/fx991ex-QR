@@ -68,6 +68,8 @@ As description in Basics we can find out what input is with number pairs after `
 | 181F1D1Axx(integer)1B1Axx(numerator)1B1Axx(denominator)1B1E | ![mix_num][mix_num] |
 | D7 | ![%][perc] |
 | D8 | ![factorial][factorial] |
+| 60 | ![left_brace][left_brace] |
+| D0 | ![right_brace][right_brace] |
 | C0 | ![(-)][neg] |
 | xx(base)C91Axx(power)1B | ![power][power] |
 | 721Axx(power)1B | ![e_power][e_power] |
@@ -163,3 +165,5 @@ Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 [es_n]: http://latex.codecogs.com/gif.latex?\textbf{n}
 [es_p]: http://latex.codecogs.com/gif.latex?\textbf{p}
 [es_f]: http://latex.codecogs.com/gif.latex?\textbf{f}
+[left_brace]: http://latex.codecogs.com/gif.latex?\(
+[right_brace]: http://latex.codecogs.com/gif.latex?\)
