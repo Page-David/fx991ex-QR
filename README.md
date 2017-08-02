@@ -62,6 +62,7 @@ As description in Basics we can find out what input is with number pairs after `
 | A8 | ![multiply][multiply] |
 | A9 | ![divition][divition] |
 | 741Axx1B | ![sqrt][sqrt] |
+| CA1D1Axx1B1Axx1B1E | ![sqrt_any][sqrt_any] |
 | 681Axx1B | ![abs][abs] |
 | C81D1Axx(numerator)1B1Axx(denominator)1B1E | ![frag][frag] |
 | 181F1D1Axx(integer)1B1Axx(numerator)1B1Axx(denominator)1B1E | ![mix_num][mix_num] |
@@ -115,6 +116,7 @@ Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 [multiply]: http://latex.codecogs.com/gif.latex?{\times}
 [divition]: http://latex.codecogs.com/gif.latex?{\div}
 [sqrt]: http://latex.codecogs.com/gif.latex?\sqrt{\hspace{1em}}
+[sqrt_any]: http://latex.codecogs.com/gif.latex?^{\fbox{\phantom{\tiny1}}}\sqrt{\hspace{1em}}
 [sqrt6]: http://latex.codecogs.com/gif.latex?\sqrt{6}
 [abs]: http://latex.codecogs.com/gif.latex?\left|\hspace{1em}\right|
 [frag]: http://latex.codecogs.com/gif.latex?\frac{\framebox{\phantom{1}}}{\fbox{\phantom{1}}}
