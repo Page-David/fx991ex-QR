@@ -63,7 +63,8 @@ As description in Basics we can find out what input is with number pairs after `
 | 741Axx1B | ![sqrt][sqrt] |
 | 681Axx1B | ![abs][abs] |
 | C81D1Axx(numerator)1B1Axx(denominator)1B1E | ![frag][frag] |
-| D7 | ![perc][perc] |
+| 181F1D1Axx(integer)1B1Axx(numerator)1B1Axx(denominator)1B1E | ![mix_num][mix_num] |
+| D7 | ![%][perc] |
 
 Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 
@@ -99,3 +100,4 @@ Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 [abs]: http://latex.codecogs.com/gif.latex?\left|\hspace{1em}\right|
 [frag]: http://latex.codecogs.com/gif.latex?\frac{\framebox{\phantom{1}}}{\fbox{\phantom{1}}}
 [perc]: http://latex.codecogs.com/gif.latex?{\\%}
+[mix_num]: http://latex.codecogs.com/gif.latex?\framebox{\phantom{1}}\frac{\framebox{\phantom{1}}}{\fbox{\phantom{1}}}
