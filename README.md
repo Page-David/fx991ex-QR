@@ -68,6 +68,7 @@ As description in Basics we can find out what input is with number pairs after `
 | D7 | ![%][perc] |
 | C0 | ![(-)][neg] |
 | xx(base)C91Axx(power)1B | ![power][power] |
+| 721Axx(power)1B | ![e_power][e_power] |
 
 Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 
@@ -117,6 +118,7 @@ Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 [x10]: http://latex.codecogs.com/gif.latex?{\times}10^x
 [neg]: http://latex.codecogs.com/gif.latex?(\text{-})
 [power]: http://latex.codecogs.com/gif.latex?\large&space;x^{\\;\fbox{\phantom{\tiny1}}}
+[e_power]: http://latex.codecogs.com/gif.latex?\large&space;{\mathrm{e}}^{\\;\fbox{\phantom{\tiny1}}}
 [sin]: http://latex.codecogs.com/gif.latex?\sin(
 [cos]: http://latex.codecogs.com/gif.latex?\cos(
 [tan]: http://latex.codecogs.com/gif.latex?\tan(
