@@ -70,6 +70,9 @@ As description in Basics we can find out what input is with number pairs after `
 | C0 | ![(-)][neg] |
 | xx(base)C91Axx(power)1B | ![power][power] |
 | 721Axx(power)1B | ![e_power][e_power] |
+| 75 | ![ln][ln] |
+| 7D | ![log_10][log_10] |
+| 7D1Axx(base)1Cxx(proper)1B | ![log][log] |
 
 Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 
@@ -79,9 +82,9 @@ Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 | 77 | ![sin(][sin] |
 | 78 | ![cos(][cos] |
 | 79 | ![tan(][tan] |
-| 7A | ![sin-1][sin-1]
-| 7B | ![cos-1][cos-1]
-| 7C | ![tan-1][tan-1]
+| 7A | ![sin-1][sin-1] |
+| 7B | ![cos-1][cos-1] |
+| 7C | ![tan-1][tan-1] |
 
 
 [pi]: http://latex.codecogs.com/gif.latex?\pi
@@ -127,3 +130,6 @@ Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 [sin-1]: http://latex.codecogs.com/gif.latex?\sin^{-1}(
 [cos-1]: http://latex.codecogs.com/gif.latex?\cos^{-1}(
 [tan-1]: http://latex.codecogs.com/gif.latex?\tan^{-1}(
+[log_10]: http://latex.codecogs.com/gif.latex?log(
+[ln]: http://latex.codecogs.com/gif.latex?ln(
+[log]: http://latex.codecogs.com/gif.latex?log{_{\fbox{\phantom{\tiny1}}}}\\;{\fbox{\phantom{1}}}
