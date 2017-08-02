@@ -1,4 +1,4 @@
-# Casio fx991 ex QR code
+# Casio fx-991EX QR code
 Reverse engerneeing the Casio QR code.
 
 ## Why we want to make out how QR code works?
