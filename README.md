@@ -16,7 +16,7 @@ For example, an URL like http://wes.casio.com/math/index.php?q=I-255A+U-00030008
 |                  I-255A                    | UNKNOWN |
 |              U-00030008EF6F                | UNKNOWN |
 |              M-C10000AA00                  | UNKNOWN |
-|       S-401410101010101E1010B0000C41       | UNKNOWN |
+|       S-401410101010101E1010B0000C41       | relative with current SETUP |
 | R-0314159265358980010000000000000000000000 | relative with calculate result |
 |                  E-22                      | the intput formula present by number pairs |
 
@@ -71,6 +71,16 @@ As description in Basics we can find out what input is with number pairs after `
 
 Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 
+### Trigonometric function
+| key | value |
+|:-----:|:-------:|
+| 77 | ![sin(][sin] |
+| 78 | ![cos(][cos] |
+| 79 | ![tan(][tan] |
+| 7A | ![sin-1][sin-1]
+| 7B | ![cos-1][cos-1]
+| 7C | ![tan-1][tan-1]
+
 
 [pi]: http://latex.codecogs.com/gif.latex?\pi
 [nature_e]: http://latex.codecogs.com/gif.latex?{\color{Red}\mathrm{e}}
@@ -107,3 +117,9 @@ Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 [x10]: http://latex.codecogs.com/gif.latex?{\times}10^x
 [neg]: http://latex.codecogs.com/gif.latex?(\text{-})
 [power]: http://latex.codecogs.com/gif.latex?\large&space;x^{\\;\fbox{\phantom{\tiny1}}}
+[sin]: http://latex.codecogs.com/gif.latex?\sin(
+[cos]: http://latex.codecogs.com/gif.latex?\cos(
+[tan]: http://latex.codecogs.com/gif.latex?\tan(
+[sin-1]: http://latex.codecogs.com/gif.latex?\sin^{-1}(
+[cos-1]: http://latex.codecogs.com/gif.latex?\cos^{-1}(
+[tan-1]: http://latex.codecogs.com/gif.latex?\tan^{-1}(
