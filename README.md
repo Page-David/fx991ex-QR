@@ -2,7 +2,7 @@
 Reverse engerneeing the Casio QR code.
 
 ## Why we want to make out how QR code works?
-The app or say the website Casio provides is awlful and must be online to use it. We can try to search out how the QR code works and make your own program to read data from the calculator.
+The app or say the website Casio provided is awlful and must be online to use it. We can try to search out how the QR code works and make your own program to read data from the calculator.
 
 ## Summary
 The QR code can be generated when there is result (to visulize results) or in mode select page (jump to a instruction). The QR code include a web URL which contains information, we can dig out how the URL related to our result and find out how to develop our own app finally.
@@ -21,7 +21,7 @@ For example, an URL like http://wes.casio.com/math/index.php?q=I-255A+U-00030008
 |                  E-22                      | the intput formula present by number pairs |
 
 ## KEY-VALUE relationship
-As description in `Basics` we can find out what input is with number pairs after `E-` like `E-22` presents ![pi][pi]. Here is number list:
+As description in Basics we can find out what input is with number pairs after `E-` like `E-22` presents ![pi][pi]. Here is number list:
 
 ### Numbers
 | key | value |
