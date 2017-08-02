@@ -38,6 +38,7 @@ As description in Basics we can find out what input is with number pairs after `
 | 39 | ![9][9] |
 | 2E | ![.][.] |
 | 22 | ![pi][pi] |
+| 21 | ![e][nature_e] |
 
 ### Variables
 | key | value |
@@ -62,11 +63,13 @@ As description in Basics we can find out what input is with number pairs after `
 | 741Axx1B | ![sqrt][sqrt] |
 | 681Axx1B | ![abs][abs] |
 | C81D1Axx(numerator)1B1Axx(denominator)1B1E | ![frag][frag] |
+| D7 | ![perc][perc] |
 
 Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 
 
 [pi]: http://latex.codecogs.com/gif.latex?\pi
+[nature_e]: http://latex.codecogs.com/gif.latex?{\color{Red}\mathrm{e}}
 [0]: http://latex.codecogs.com/gif.latex?0
 [1]: http://latex.codecogs.com/gif.latex?1
 [2]: http://latex.codecogs.com/gif.latex?2
@@ -95,3 +98,4 @@ Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 [sqrt6]: http://latex.codecogs.com/gif.latex?\sqrt{6}
 [abs]: http://latex.codecogs.com/gif.latex?\left|\hspace{1em}\right|
 [frag]: http://latex.codecogs.com/gif.latex?\frac{\framebox{\phantom{1}}}{\fbox{\phantom{1}}}
+[perc]: http://latex.codecogs.com/gif.latex?{\\%}
