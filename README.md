@@ -62,7 +62,7 @@ As description in Basics we can find out what input is with number pairs after `
 | A8 | ![multiply][multiply] |
 | A9 | ![divition][divition] |
 | 741Axx1B | ![sqrt][sqrt] |
-| CA1D1Axx1B1Axx1B1E | ![sqrt_any][sqrt_any] |
+| CA1D1Axx（degree of root)1B1Axx(radicand)1B1E | ![sqrt_any][sqrt_any] |
 | 681Axx1B | ![abs][abs] |
 | C81D1Axx(numerator)1B1Axx(denominator)1B1E | ![frag][frag] |
 | 181F1D1Axx(integer)1B1Axx(numerator)1B1Axx(denominator)1B1E | ![mix_num][mix_num] |
@@ -88,6 +88,21 @@ Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 | 7B | ![cos-1][cos-1] |
 | 7C | ![tan-1][tan-1] |
 
+### Engineer Symbol
+| key | value |
+|:-----:|:-------:|
+| DD | ![es_E][es_E] |
+| DE | ![es_P][es_P] |
+| DF | ![es_T][es_T] |
+| E0 | ![es_G][es_G] |
+| E1 | ![es_M][es_M] |
+| E2 | ![es_k][es_k] |
+| E3 | ![es_m][es_mm] |
+| E4 | ![es_u][es_u] |
+| E5 | ![es_n][es_n] |
+| E6 | ![es_p][es_p] |
+| E7 | ![es_f][es_f] |
+
 
 [pi]: http://latex.codecogs.com/gif.latex?\pi
 [nature_e]: http://latex.codecogs.com/gif.latex?{\color{Red}\mathrm{e}}
@@ -102,15 +117,15 @@ Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 [8]: http://latex.codecogs.com/gif.latex?8
 [9]: http://latex.codecogs.com/gif.latex?9
 [.]: http://latex.codecogs.com/gif.latex?.
-[A]:http://latex.codecogs.com/gif.latex?{\color{Red}A}
-[B]:http://latex.codecogs.com/gif.latex?{\color{Red}B}
-[C]:http://latex.codecogs.com/gif.latex?{\color{Red}C}
-[D]:http://latex.codecogs.com/gif.latex?{\color{Red}D}
-[E]:http://latex.codecogs.com/gif.latex?{\color{Red}E}
-[F]:http://latex.codecogs.com/gif.latex?{\color{Red}F}
-[x]:http://latex.codecogs.com/gif.latex?{\color{Red}x}
-[y]:http://latex.codecogs.com/gif.latex?{\color{Red}y}
-[M]:http://latex.codecogs.com/gif.latex?{\color{Red}M}
+[A]: http://latex.codecogs.com/gif.latex?{\color{Red}A}
+[B]: http://latex.codecogs.com/gif.latex?{\color{Red}B}
+[C]: http://latex.codecogs.com/gif.latex?{\color{Red}C}
+[D]: http://latex.codecogs.com/gif.latex?{\color{Red}D}
+[E]: http://latex.codecogs.com/gif.latex?{\color{Red}E}
+[F]: http://latex.codecogs.com/gif.latex?{\color{Red}F}
+[x]: http://latex.codecogs.com/gif.latex?{\color{Red}x}
+[y]: http://latex.codecogs.com/gif.latex?{\color{Red}y}
+[M]: http://latex.codecogs.com/gif.latex?{\color{Red}M}
 [plus]: http://latex.codecogs.com/gif.latex?+
 [minus]: http://latex.codecogs.com/gif.latex?-
 [multiply]: http://latex.codecogs.com/gif.latex?{\times}
@@ -137,3 +152,14 @@ Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 [log_10]: http://latex.codecogs.com/gif.latex?log(
 [ln]: http://latex.codecogs.com/gif.latex?ln(
 [log]: http://latex.codecogs.com/gif.latex?log{_{\fbox{\phantom{\tiny1}}}}\\,{\fbox{\phantom{1}}}
+[es_E]: http://latex.codecogs.com/gif.latex?\textbf{E}
+[es_P]: http://latex.codecogs.com/gif.latex?\textbf{P}
+[es_T]: http://latex.codecogs.com/gif.latex?\textbf{T}
+[es_G]: http://latex.codecogs.com/gif.latex?\textbf{G}
+[es_M]: http://latex.codecogs.com/gif.latex?\textbf{M}
+[es_k]: http://latex.codecogs.com/gif.latex?\textbf{k}
+[es_mm]: http://latex.codecogs.com/gif.latex?\textbf{m}
+[es_u]: http://latex.codecogs.com/gif.latex?\mu
+[es_n]: http://latex.codecogs.com/gif.latex?\textbf{n}
+[es_p]: http://latex.codecogs.com/gif.latex?\textbf{p}
+[es_f]: http://latex.codecogs.com/gif.latex?\textbf{f}
