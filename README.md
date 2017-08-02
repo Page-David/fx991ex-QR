@@ -36,9 +36,10 @@ As description in Basics we can find out what input is with number pairs after `
 | 37 | ![7][7] |
 | 38 | ![8][8] |
 | 39 | ![9][9] |
-| 2E | ![.][.] |
-| 22 | ![pi][pi] |
 | 21 | ![e][nature_e] |
+| 22 | ![pi][pi] |
+| 2D | ![x10][x10] |
+| 2E | ![.][.] |
 
 ### Variables
 | key | value |
@@ -101,3 +102,4 @@ Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 [frag]: http://latex.codecogs.com/gif.latex?\frac{\framebox{\phantom{1}}}{\fbox{\phantom{1}}}
 [perc]: http://latex.codecogs.com/gif.latex?{\\%}
 [mix_num]: http://latex.codecogs.com/gif.latex?\framebox{\phantom{1}}\frac{\framebox{\phantom{1}}}{\fbox{\phantom{1}}}
+[x10]: http://latex.codecogs.com/gif.latex?{\times}10^x
