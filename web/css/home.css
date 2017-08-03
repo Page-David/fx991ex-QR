@@ -1,0 +1,24 @@
+body {
+	background-color: #2c3e50;
+}
+
+div.container {
+	width: 100%;
+	text-align: center;
+}
+
+div.pusher {
+	height: 5em;
+}
+
+div.lar_tit {
+	color: #2ecc71;
+	font-size: 450%;
+	font-family: 'Roboto Mono'
+}
+
+div.sub_tit {
+	color: #bdc3c7;
+	font-size: 300%;
+    font-family: 'Lobster';
+}
