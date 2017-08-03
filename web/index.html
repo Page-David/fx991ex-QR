@@ -5,6 +5,9 @@
 	<link rel="stylesheet" type="text/css" href="css/home.css">
 	<link href='https://fonts.lug.ustc.edu.cn/css?family=Roboto Mono' rel='stylesheet'>
 	<link href="https://fonts.lug.ustc.edu.cn/css?family=Lobster" rel="stylesheet">
+	<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+	<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
+	<script type="text/javascript" src="js/home.js"></script>
 	<title>Casio QR parser</title>
 	</head>
 	<body>
@@ -12,7 +15,9 @@
 			<div class="pusher"></div>
 			<div class="lar_tit">Unofficial QR parser</div>
 			<div class="sub_tit">Faster, Free, No ad</div>
-			<input class="sca_res" placeholder="Please paste QR scan result here"></input>
+			<input class="sca_res" id="url_res" placeholder="Please paste QR scan result here" oninput="parser()"></input>
+			<div class="pusher"></div>
+			<div class="in_mul" id="in_mul"></div>
 		</div>
 	</body>
 </html>

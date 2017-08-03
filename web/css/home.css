@@ -24,6 +24,10 @@ div.sub_tit {
 	padding-bottom: 5%;
 }
 
+div.in_mul {
+	color: #95a5a6;
+}
+
 input.sca_res {
 	color: #ecf0f1; 
 	background-color: #7f8c8d;
