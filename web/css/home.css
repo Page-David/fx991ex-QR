@@ -21,4 +21,13 @@ div.sub_tit {
 	color: #bdc3c7;
 	font-size: 300%;
     font-family: 'Lobster';
+	padding-bottom: 5%;
+}
+
+input.sca_res {
+	color: #ecf0f1; 
+	background-color: #7f8c8d;
+	border-width: 0;
+	font-size: 1.3em;
+	width: 50%;
 }
