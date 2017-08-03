@@ -22,7 +22,14 @@ function parser() {
 
 function mapping(inner_key) {
 	var map_dict = {
-		"22" : "\\pi"
+		"22" : "\\pi",
+		"A6" : "+",
+		"A7" : "-",
+		"A8" : "{\\times}",
+		"A9" : "{\\div}",
+		"30" : "0",
+		"31" : "1",
+		"32" : "2"
 		};
 	return map_dict[inner_key];
 }
