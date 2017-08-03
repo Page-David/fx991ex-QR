@@ -1,5 +1,5 @@
 # Casio fx-991EX QR code
-Reverse engerneeing the Casio QR code. Here is a self made Web ![Demo][Demo].
+Reverse engerneeing the Casio QR code. Here is a self made Web [Demo](https://page-david.github.io/fx991ex-QR/web/).
 
 ## Why we want to make out how QR code works?
 The app or say the website Casio provided is awlful and must be online to use it. We can try to search out how the QR code works and make your own program to read data from the calculator.
@@ -105,7 +105,6 @@ Note: `xx` is placeholder, for example, ![sqrt6][sqrt6] should be 741A*36*1B
 | E6 | ![es_p][es_p] |
 | E7 | ![es_f][es_f] |
 
-[Demo]: https://page-david.github.io/fx991ex-QR/web/
 [pi]: http://latex.codecogs.com/gif.latex?\pi
 [nature_e]: http://latex.codecogs.com/gif.latex?{\color{Red}\mathrm{e}}
 [0]: http://latex.codecogs.com/gif.latex?0
